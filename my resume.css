@@ -1,0 +1,168 @@
+element.style {
+}
+#profile .row > div {
+    margin-bottom: 20px;
+}
+@media (max-width: 767px)
+#profile .row * {
+    text-align: center;
+}
+#Educations,#Abilities,#Extracurriculars{
+  background-color:#ffe4e4 ;
+}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+.lead1{
+  text-align: center;
+  color:#fcfefe;
+  font-size:20px;
+}
+.lead{
+
+  text-align: center;
+}
+.Education,.Abilities,.Extracurriculars{
+  background-color:##F3EFE0;;
+}
+#Contacts{
+  background-color:#322f3d;
+}
+.jumbotron{
+  padding-top: 40px;
+  width: 100%;
+ height: 400px;
+ background-image: url('xyz.jpg');
+ background-size: cover;
+
+}
+b,strong{
+  color:#222831;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+h2{
+  text-align: center;
+}
+.background-gray{
+  width:100%;
+  height:100%;
+  background-color: gray;
+  padding-bottom: 40px;
+}
+
+h2,h3{
+  color:#66bfbf;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+h1{
+  padding-top: 50px;
+  color:#fcfefe;
+  text-align: center;
+  font-size: 40px;
+}
+.phone,.iconicon-linkedin,.iconicon-email{
+  color:#fcfefe;
+}
+h4{
+  color:black;
+}
+
+.text-center {
+  padding-top: 50px;
+    max-width: 300px;
+    max-height: 300px;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+  /*  border-radius: 100%;*/
+    position: relative;
+    img {
+        max-width: 300px;
+        width: auto;
+        max-height: 300px;
+        height: 100%;
+        overflow: hidden;
+        /*border-radius: 100%;*/
+        position: relative;
+        border: 10px solid transparent;
+        margin-bottom: 0px;
+        object-fit: scale-down;
+        }
+    }
+
+
+
+
+
+.col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12{
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.text-center {
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.clearfix:before, .clearfix:after, .dl-horizontal dd:before, .dl-horizontal dd:after, .container:before, .container:after, .container-fluid:before, .container-fluid:after, .row:before, .row:after, .form-horizontal .form-group:before, .form-horizontal .form-group:after, .btn-toolbar:before, .btn-toolbar:after, .btn-group-vertical>.btn-group:before, .btn-group-vertical>.btn-group:after, .nav:before, .nav:after, .navbar:before, .navbar:after, .navbar-header:before, .navbar-header:after, .navbar-collapse:before, .navbar-collapse:after, .pager:before, .pager:after, .panel-body:before, .panel-body:after, .modal-footer:before, .modal-footer:after {
+    display: table;
+    content: " ";
+}
+:before, :after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.clearfix:after, .dl-horizontal dd:after, .container:after, .container-fluid:after, .row:after, .form-horizontal .form-group:after, .btn-toolbar:after, .btn-group-vertical>.btn-group:after, .nav:after, .navbar:after, .navbar-header:after, .navbar-collapse:after, .pager:after, .panel-body:after, .modal-footer:after {
+    clear: both;
+}
+.clearfix:before, .clearfix:after, .dl-horizontal dd:before, .dl-horizontal dd:after, .container:before, .container:after, .container-fluid:before, .container-fluid:after, .row:before, .row:after, .form-horizontal .form-group:before, .form-horizontal .form-group:after, .btn-toolbar:before, .btn-toolbar:after, .btn-group-vertical>.btn-group:before, .btn-group-vertical>.btn-group:after, .nav:before, .nav:after, .navbar:before, .navbar:after, .navbar-header:before, .navbar-header:after, .navbar-collapse:before, .navbar-collapse:after, .pager:before, .pager:after, .panel-body:before, .panel-body:after, .modal-footer:before, .modal-footer:after {
+    display: table;
+    content: " ";
+}
+:before, :after {
+    -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+div {
+    display: block;
+}
+body {
+   background: #F3EFE0;
+    font-size: 15px;
+    line-height: 1.64;
+}
+html, body {
+    color: #434242;
+    font-family: 'Open Sans', sans-serif !important;
+    height: 100%;
+}
+.Profile,#Experiences,#Projects{
+  background-color: #fff;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
